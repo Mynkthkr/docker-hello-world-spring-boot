@@ -1,0 +1,2 @@
+ dockerFilePath: app/Dockerfile
+ appName: my-app
