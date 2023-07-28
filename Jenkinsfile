@@ -3,8 +3,7 @@ DockerEcsDeploy([
  master: [
      containerRegistoryUrl: '476498784073.dkr.ecr.us-east-1.amazonaws.com',
      clusterName: 'ecs-ec2',
-  
-      notification: [
+     notification: [
    [
      type: 'slack',
      webhookUrl: 'https://hooks.slack.com/services/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'
