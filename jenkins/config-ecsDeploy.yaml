@@ -1,2 +1,4 @@
- dockerFilePath: docker/Dockerfile
- appName: ecs
+appName: spring-boot    #This parameter is optional 
+serviceName: demo  #This parameter is optional
+taskDefinition: demo   #This parameter is optional
+dockerFilePath: docker/Dockerfile   #This parameter is optional
