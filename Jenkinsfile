@@ -2,7 +2,8 @@
 DockerEcsDeploy([ 
  master: [
      containerRegistoryUrl: '476498784073.dkr.ecr.us-east-1.amazonaws.com',
-     clusterName: 'ecs-ec2'
+     clusterName: 'ecs-ec2',
+  
       notification: [
    [
      type: 'slack',
