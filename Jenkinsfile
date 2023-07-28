@@ -14,7 +14,7 @@ DockerEcsDeploy([
    ],
    [
      type: 'email',
-     fromAddress: 'sanchi.sharma1@tothenew.com',
+     fromAddress: 'mayank.kumar@tothenew.com',
      toAddress: 'akshat.mittal@tothenew.com'
    ]
  ]
