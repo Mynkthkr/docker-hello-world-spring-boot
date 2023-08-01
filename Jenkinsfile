@@ -11,11 +11,6 @@ DockerEcsDeploy([
    [
      type: 'gchat',
      webhookUrl: 'https://chat.googleapis.com/v1/spaces/AAAAQu1xwI0/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=9MxzT0CmXM0XkRiEbo79jRLBMNbu4C2dERPqK9xi0g0'
-   ],
-   [
-     type: 'email',
-     fromAddress: 'mayank.kumar@tothenew.com',
-     toAddress: 'sanchi.sharma1@tothenew.com'
    ]
  ]
 ]
